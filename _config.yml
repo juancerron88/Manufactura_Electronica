@@ -1,7 +1,0 @@
-title: Mi Sitio de Curso
-description: Un sitio web detallado sobre el curso
-include:
-  - "_files"
-title: Mi Sitio de Curso
-baseurl: "" # importante para proyectos no en la raíz
-url: "https://juancerron88.github.io/Manufactura_Electronica/Index.md"
