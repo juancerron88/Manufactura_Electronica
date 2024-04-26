@@ -1,0 +1,4 @@
+title: Mi Sitio de Curso
+description: Un sitio web detallado sobre el curso
+include:
+  - "_files"
